@@ -1,7 +1,9 @@
 # -_-_herencia_animales_java_- :.
 # 🐾 HerenciaAnimalesJava:
 
-<img width="1254" height="1254" alt="image" src="https://github.com/user-attachments/assets/5b0dcb3b-9e4a-4f0e-8b87-213f514046c3" />  
+<img width="1254" height="1254" alt="image" src="https://github.com/user-attachments/assets/5b0dcb3b-9e4a-4f0e-8b87-213f514046c3" />    
+
+<img width="2559" height="1041" alt="image" src="https://github.com/user-attachments/assets/9e3ae0e4-592e-4f0a-95a8-626893ab38dc" />    
 
 ```
 
